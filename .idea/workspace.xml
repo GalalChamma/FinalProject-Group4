@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efcee8f2-fe8f-47d3-9811-c8f20e088acb" name="Default Changelist" comment="Made new additions button work and renamed new.html to NewAdd.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckFlix/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/CheckFlix/new.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607894049426</updated>
-      <workItem from="1607894051145" duration="9717000" />
+      <workItem from="1607894051145" duration="10329000" />
     </task>
     <task id="LOCAL-00001" summary="New additions, filter button, new.html, new.css and new.js">
       <created>1607900539954</created>
